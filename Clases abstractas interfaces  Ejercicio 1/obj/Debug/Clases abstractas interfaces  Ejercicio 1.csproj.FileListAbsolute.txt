@@ -1,0 +1,8 @@
+C:\Users\54116\source\repos\Clases abstractas interfaces  Ejercicio 1\bin\Debug\Clases abstractas interfaces  Ejercicio 1.exe.config
+C:\Users\54116\source\repos\Clases abstractas interfaces  Ejercicio 1\bin\Debug\Clases abstractas interfaces  Ejercicio 1.exe
+C:\Users\54116\source\repos\Clases abstractas interfaces  Ejercicio 1\bin\Debug\Clases abstractas interfaces  Ejercicio 1.pdb
+C:\Users\54116\source\repos\Clases abstractas interfaces  Ejercicio 1\obj\Debug\Clases abstractas interfaces  Ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\54116\source\repos\Clases abstractas interfaces  Ejercicio 1\obj\Debug\Clases abstractas interfaces  Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\54116\source\repos\Clases abstractas interfaces  Ejercicio 1\obj\Debug\Clases abstractas interfaces  Ejercicio 1.exe
+C:\Users\54116\source\repos\Clases abstractas interfaces  Ejercicio 1\obj\Debug\Clases abstractas interfaces  Ejercicio 1.pdb
+C:\Users\54116\source\repos\Clases abstractas interfaces  Ejercicio 1\obj\Debug\Clases abstractas interfaces  Ejercicio 1.exe.config
