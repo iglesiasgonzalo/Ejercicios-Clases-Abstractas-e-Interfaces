@@ -1,0 +1,8 @@
+C:\Users\54116\source\repos\Clases Abstractas Vehiculo\bin\Debug\Clases Abstractas Vehiculo.exe.config
+C:\Users\54116\source\repos\Clases Abstractas Vehiculo\bin\Debug\Clases Abstractas Vehiculo.exe
+C:\Users\54116\source\repos\Clases Abstractas Vehiculo\bin\Debug\Clases Abstractas Vehiculo.pdb
+C:\Users\54116\source\repos\Clases Abstractas Vehiculo\obj\Debug\Clases Abstractas Vehiculo.csproj.AssemblyReference.cache
+C:\Users\54116\source\repos\Clases Abstractas Vehiculo\obj\Debug\Clases Abstractas Vehiculo.csproj.CoreCompileInputs.cache
+C:\Users\54116\source\repos\Clases Abstractas Vehiculo\obj\Debug\Clases Abstractas Vehiculo.exe
+C:\Users\54116\source\repos\Clases Abstractas Vehiculo\obj\Debug\Clases Abstractas Vehiculo.pdb
+C:\Users\54116\source\repos\Clases Abstractas Vehiculo\obj\Debug\Clases Abstractas Vehiculo.exe.config
