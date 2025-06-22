@@ -1,0 +1,7 @@
+C:\Users\54116\source\repos\Clases Abstractas Ejercicio 1 Figuras\bin\Debug\Clases Abstractas Ejercicio 1 Figuras.exe.config
+C:\Users\54116\source\repos\Clases Abstractas Ejercicio 1 Figuras\bin\Debug\Clases Abstractas Ejercicio 1 Figuras.exe
+C:\Users\54116\source\repos\Clases Abstractas Ejercicio 1 Figuras\bin\Debug\Clases Abstractas Ejercicio 1 Figuras.pdb
+C:\Users\54116\source\repos\Clases Abstractas Ejercicio 1 Figuras\obj\Debug\Clases Abstractas Ejercicio 1 Figuras.csproj.AssemblyReference.cache
+C:\Users\54116\source\repos\Clases Abstractas Ejercicio 1 Figuras\obj\Debug\Clases Abstractas Ejercicio 1 Figuras.csproj.CoreCompileInputs.cache
+C:\Users\54116\source\repos\Clases Abstractas Ejercicio 1 Figuras\obj\Debug\Clases Abstractas Ejercicio 1 Figuras.exe
+C:\Users\54116\source\repos\Clases Abstractas Ejercicio 1 Figuras\obj\Debug\Clases Abstractas Ejercicio 1 Figuras.pdb
