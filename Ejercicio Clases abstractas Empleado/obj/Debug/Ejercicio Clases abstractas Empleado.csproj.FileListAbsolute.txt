@@ -1,0 +1,7 @@
+C:\Users\54116\source\repos\Ejercicio Clases abstractas Empleado\bin\Debug\Ejercicio Clases abstractas Empleado.exe.config
+C:\Users\54116\source\repos\Ejercicio Clases abstractas Empleado\bin\Debug\Ejercicio Clases abstractas Empleado.exe
+C:\Users\54116\source\repos\Ejercicio Clases abstractas Empleado\bin\Debug\Ejercicio Clases abstractas Empleado.pdb
+C:\Users\54116\source\repos\Ejercicio Clases abstractas Empleado\obj\Debug\Ejercicio Clases abstractas Empleado.csproj.AssemblyReference.cache
+C:\Users\54116\source\repos\Ejercicio Clases abstractas Empleado\obj\Debug\Ejercicio Clases abstractas Empleado.csproj.CoreCompileInputs.cache
+C:\Users\54116\source\repos\Ejercicio Clases abstractas Empleado\obj\Debug\Ejercicio Clases abstractas Empleado.exe
+C:\Users\54116\source\repos\Ejercicio Clases abstractas Empleado\obj\Debug\Ejercicio Clases abstractas Empleado.pdb
