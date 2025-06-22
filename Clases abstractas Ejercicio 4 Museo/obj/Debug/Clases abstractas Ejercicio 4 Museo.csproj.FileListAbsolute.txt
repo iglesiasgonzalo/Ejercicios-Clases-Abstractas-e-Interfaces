@@ -1,0 +1,7 @@
+C:\Users\54116\source\repos\Clases abstractas Ejercicio 4 Museo\bin\Debug\Clases abstractas Ejercicio 4 Museo.exe.config
+C:\Users\54116\source\repos\Clases abstractas Ejercicio 4 Museo\bin\Debug\Clases abstractas Ejercicio 4 Museo.exe
+C:\Users\54116\source\repos\Clases abstractas Ejercicio 4 Museo\bin\Debug\Clases abstractas Ejercicio 4 Museo.pdb
+C:\Users\54116\source\repos\Clases abstractas Ejercicio 4 Museo\obj\Debug\Clases abstractas Ejercicio 4 Museo.csproj.AssemblyReference.cache
+C:\Users\54116\source\repos\Clases abstractas Ejercicio 4 Museo\obj\Debug\Clases abstractas Ejercicio 4 Museo.csproj.CoreCompileInputs.cache
+C:\Users\54116\source\repos\Clases abstractas Ejercicio 4 Museo\obj\Debug\Clases abstractas Ejercicio 4 Museo.exe
+C:\Users\54116\source\repos\Clases abstractas Ejercicio 4 Museo\obj\Debug\Clases abstractas Ejercicio 4 Museo.pdb
